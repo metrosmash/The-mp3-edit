@@ -10,6 +10,8 @@ https://github.com/nicfit/eyeD3
 
  its command interface based.
  
+ The mains script is the 'mp3_to_image_Script'
+ 
  ## Requirement 
  python 3.10
  
